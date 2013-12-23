@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WebService-Validator-CSS-W3C.t
+lib/WebService/Validator/CSS/W3C.pm
+META.yml                                 Module meta-data (added by MakeMaker)
